@@ -1,5 +1,7 @@
 # win-id
 
+修改MachineId
+
 # MacOS
 ```
 brew install rustup-init
@@ -8,3 +10,9 @@ brew install mingw-w64
 
 cargo build --target x86_64-pc-windows-gnu --release
 ```
+
+# Example
+
+![](/1.png)
+
+![](/2.png)
